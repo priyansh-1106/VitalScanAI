@@ -1,4 +1,4 @@
-# VitalScan AI — Flask Edition
+# VitalScan AI 
 
 AI-powered health risk predictor for Heart Disease 🫀, Diabetes 🩸, and Kidney Disease 🫘.
 
